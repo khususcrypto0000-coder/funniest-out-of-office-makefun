@@ -11,7 +11,7 @@ Run `python3 main.py` to write the line to `/output/entry.txt` (override the dir
 ## Bounty
 
 [![Bounty](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
-[![Rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard)
-[![Reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard)
+[![Rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/khususcrypto0000-coder/funniest-out-of-office-makefun/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard)
+[![Reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/khususcrypto0000-coder/funniest-out-of-office-makefun/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard)
 
 Repo: `funniest-out-of-office-makefun`
